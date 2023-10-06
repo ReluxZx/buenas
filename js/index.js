@@ -8,7 +8,7 @@ function app(){
     let crud2 = new CRUD ("FOR EXAMPLE ");
     console.log(crud2.readALL());
 
-    crud.update(5, [8,4,5]);
+    crud.update(5, [8,4,8]);
 
     crud.delete(9);    
 }
